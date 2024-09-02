@@ -1,4 +1,5 @@
-![Profile Banner]([https://github.com/pranjalghan/Cloud-in-a-Fullstack-Developer-Job-600x600.png](https://www.jobalope.com/wp-content/uploads/skills-library/Cloud-in-a-Fullstack-Developer-Job-600x600.png))
+![Profile Banner](https://www.jobalope.com/wp-content/uploads/skills-library/Cloud-in-a-Fullstack-Developer-Job-600x600.png)
+
 
 <h1 align="center">Hi 👋, I'm Pranjal Ghan</h1>
 <h3 align="center"> A passionate software developer with a strong background in full-stack development, cloud technologies, and machine learning. I am always eager to explore new technologies and collaborate on projects that create impactful solutions. </h3>
@@ -21,7 +22,9 @@
 <p align="left">
 <a href="https://linkedin.com/in/pranjal-ghan" target="blank"><img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" alt="pranjal-ghan" height="30" width="40" /></a>
 <a href="https://github.com/pranjalghan" target="blank"><img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg" alt="pranjalghan" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/pranj_1/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="leetcode" height="30" width="40" /></a>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
