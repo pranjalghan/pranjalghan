@@ -1,4 +1,4 @@
-<img src="https://www.jobalope.com/wp-content/uploads/skills-library/Cloud-in-a-Fullstack-Developer-Job-600x600.png" alt="Profile Banner" width="800" height="200">
+<img src="https://media.licdn.com/dms/image/D5612AQGgF3S4jcyX8w/article-cover_image-shrink_600_2000/0/1687238682975?e=2147483647&v=beta&t=rTx3JrP7lW0Z3SqVlRwvNEeGDsIwu281jvSIIIYEKl8" alt="Profile Banner" width="1000" height="200">
 
 <h1 align="center">Hi 👋, I'm Pranjal Ghan</h1>
 <h3 align="center"> A passionate software developer with a strong background in full-stack development, cloud technologies, and machine learning. I am always eager to explore new technologies and collaborate on projects that create impactful solutions. </h3>
