@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranjalghan&label=Profile%20views&color=0e75b6&style=flat" alt="pranjalghan" /> </p>
 
-- 🔭 I’m currently working on [Real-time Twitter Feeds](https://github.com/pranjalghan/RealTimeTwitterFeeds), implementing Java, Kafka, and Elasticsearch to fetch live streaming tweets.
+- 🔭 I’m currently working on the [Udacity Cloud Developer Course](https://www.udacity.com/course/cloud-developer-nanodegree--nd9990), focusing on cloud infrastructure, deployment, and scalability.
 
 - 🌱 I’m currently learning **Kubernetes, Docker, and AWS to enhance my cloud computing skills.**
 
