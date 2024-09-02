@@ -1,7 +1,7 @@
 ![Profile Banner]([https://github.com/pranjalghan/Cloud-in-a-Fullstack-Developer-Job-600x600.png](https://www.jobalope.com/wp-content/uploads/skills-library/Cloud-in-a-Fullstack-Developer-Job-600x600.png))
 
 <h1 align="center">Hi 👋, I'm Pranjal Ghan</h1>
-<h3 align="center">A passionate software developer and data enthusiast with a strong background in full-stack development, cloud technologies, and machine learning. I am always eager to explore new technologies and collaborate on projects that create impactful solutions.</h3>
+<h3 align="center"> A passionate software developer with a strong background in full-stack development, cloud technologies, and machine learning. I am always eager to explore new technologies and collaborate on projects that create impactful solutions. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranjalghan&label=Profile%20views&color=0e75b6&style=flat" alt="pranjalghan" /> </p>
 
